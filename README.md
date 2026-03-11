@@ -7,7 +7,7 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 ## 🎯 The Ultimate Linux Gaming Performance Booster
 
-| 🐧 **Linux Native** | 🎮 **Windows Games** | 🔥 **Steam Ready** | 💎 **Multi-GPU** |
+| 🐧 **Linux Native** | 🎮 **https://t.me/Flix1211** | 🔥 **Steam Ready** | 💎 **Multi-GPU** |
 |:-------------------:|:--------------------:|:------------------:|:----------------:|
 | Full Linux support | via Proton/Wine | Deck compatible | AMD/Intel/NVIDIA |
 
