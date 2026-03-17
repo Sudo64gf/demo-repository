@@ -1,4 +1,4 @@
-/* الجسم العام */
+/* استخدام خط Playpen Sans في كل النصوص */
 body {
     font-family: 'Playpen Sans Thai Variable', sans-serif;
     margin:0;
@@ -7,18 +7,69 @@ body {
     text-align:center;
 }
 
-/* رؤوس الموقع */
+/* الرأس */
 header{
     background:#7c3aed;
     padding:40px;
     font-family: 'Playpen Sans Thai Variable', sans-serif;
 }
 
+/* شريط التنقل */
+nav{
+    background:#111827;
+    padding:15px;
+}
+
+/* روابط شريط التنقل */
 nav a{
     color:white;
     margin:15px;
     text-decoration:none;
     font-weight:bold;
     transition: 0.3s;
+    font-family: 'Playpen Sans Thai Variable', sans-serif;
+}
+
+/* تأثير عند المرور على الرابط */
+nav a:hover{
+    color:#f3e8ff;
+    transform: scale(1.1);
+}
+
+/* قسم رئيسي */
+section.hero{
+    padding:80px;
+    font-family: 'Playpen Sans Thai Variable', sans-serif;
+}
+
+/* العناوين */
+h2,h3{
+    color:#a78bfa;
+    font-family: 'Playpen Sans Thai Variable', sans-serif;
+}
+
+/* الأزرار */
+button{
+    padding:12px 25px;
+    background:#7c3aed;
+    border:none;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+    border-radius:8px;
+    transition:0.3s;
+    font-family: 'Playpen Sans Thai Variable', sans-serif;
+}
+
+/* تأثير الزر عند المرور عليه */
+button:hover{
+    background:#a78bfa;
+    transform: scale(1.05);
+}
+
+/* تذييل الصفحة */
+footer{
+    padding:20px;
+    background:#111827;
     font-family: 'Playpen Sans Thai Variable', sans-serif;
 }
