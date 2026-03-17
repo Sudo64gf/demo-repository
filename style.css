@@ -1,32 +1,24 @@
-body{
-font-family: Arial;
-margin:0;
-background:#0f172a;
-color:white;
-text-align:center;
+/* الجسم العام */
+body {
+    font-family: 'Playpen Sans Thai Variable', sans-serif;
+    margin:0;
+    background:#0f172a;
+    color:white;
+    text-align:center;
 }
 
+/* رؤوس الموقع */
 header{
-background:#7c3aed;
-padding:40px;
-}
-
-nav{
-background:#111827;
-padding:15px;
+    background:#7c3aed;
+    padding:40px;
+    font-family: 'Playpen Sans Thai Variable', sans-serif;
 }
 
 nav a{
-color:white;
-margin:15px;
-text-decoration:none;
-font-weight:bold;
-}
-
-section{
-padding:50px;
-}
-
-h3{
-color:#a78bfa;
+    color:white;
+    margin:15px;
+    text-decoration:none;
+    font-weight:bold;
+    transition: 0.3s;
+    font-family: 'Playpen Sans Thai Variable', sans-serif;
 }
